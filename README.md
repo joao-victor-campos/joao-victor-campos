@@ -1,8 +1,8 @@
 ### Hi there! I'm Joao Victor 👋
 
- 🔭 I’m currently working on [twitter-api-data-stack](https://github.com/NicholasBaraldi/twitter-api-data-stack)
- 🌱 I’m currently learning Data Eng tools
- 😄 Pronouns: He/Him
+ 🔭 I’m currently working on [twitter-api-data-stack](https://github.com/NicholasBaraldi/twitter-api-data-stack)  
+ 🌱 I’m currently learning Data Eng tools  
+ 😄 Pronouns: He/Him  
  
  
 <!--
