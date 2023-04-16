@@ -1,7 +1,8 @@
 ### Hi, there! I'm Joao Victor 👋
 
- 🔭 I’m currently working on [twitter-api-data-stack](https://github.com/NicholasBaraldi/twitter-api-data-stack)  
- 🌱 I’m currently learning Data Eng tools  
+ 🔭 I’m currently working a personal project [Raven](https://github.com/victorrenop/raven)  
+ 🌱 I’m currently learning Data Eng tools
+ 🛠️ Founding Team @ [deX](https://github.com/dexlabsio)
  😄 Pronouns: He/Him  
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-victor-camposs-alves-moraes/)
  
