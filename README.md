@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working a personal project [Raven](https://github.com/victorrenop/raven)
 - 🌱 I’m currently learning Data Eng tools
-- 🛠️ Founding Team @[deX](https://github.com/dexlabsio)
+- 🛠️ Data Eng. @[wander](https://wander.com)
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-victor-camposs-alves-moraes/)
  
