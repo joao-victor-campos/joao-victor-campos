@@ -1,5 +1,5 @@
 # Hi, I'm Joao Victor 👋 
-**Data Engineer | Infrastructure & Performance Specialist**
+**Data Engineer | Platform & Performance Specialist**
 
 I build and scale modern data stacks with a focus on high-performance analytics infrastructure and extreme cost-efficiency. My approach blends software engineering rigor with data architecture, prioritizing functional programming, clean pipelines, and scalable IaC.
 
