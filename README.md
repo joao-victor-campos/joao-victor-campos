@@ -39,7 +39,7 @@ I build and scale modern data stacks with a focus on high-performance analytics 
 ---
 
 ### 🧪 Current Projects
-* **[Raven](https://github.com/victorrenop/raven)** - A personal project focused on [briefly describe Raven here, e.g., high-performance data ingestion].
+* **[Raven](https://github.com/joao-victor-campos/aperture)** - A personal project focused on imporve xp with data wharehouses.
 
 ---
 
