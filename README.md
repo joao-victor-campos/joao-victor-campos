@@ -39,7 +39,7 @@ I build and scale modern data stacks with a focus on high-performance analytics 
 ---
 
 ### 🧪 Current Projects
-* **[Raven](https://github.com/joao-victor-campos/aperture)** - A personal project focused on imporve xp with data wharehouses.
+* **[Raven](https://github.com/joao-victor-campos/aperture)** - A personal project focused on improving XP with data warehouses.
 
 ---
 
